@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="Фото услуги">
+  <defs>
+    <linearGradient id="g" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="#fdf1ea"/>
+      <stop offset="1" stop-color="#e0a487"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#g)"/>
+  <g fill="none" stroke="#ffffff" stroke-opacity=".6" stroke-width="2">
+    <path d="M150 600 L150 200 Q150 150 200 150 L600 150 Q650 150 650 200 L650 600"/>
+    <path d="M200 600 L200 230 Q200 200 230 200 L570 200 Q600 200 600 230 L600 600"/>
+  </g>
+  <g stroke="#8f3d1e" stroke-opacity=".4" stroke-width="3" stroke-dasharray="10 9" stroke-linecap="round">
+    <path d="M90 320 L710 320"/>
+    <path d="M90 340 L710 340"/>
+  </g>
+  <circle cx="400" cy="470" r="10" fill="#ffffff" fill-opacity=".75"/>
+</svg>

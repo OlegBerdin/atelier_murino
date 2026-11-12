@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /leads/
+
+Sitemap: https://stezhok-murino.ru/sitemap.xml

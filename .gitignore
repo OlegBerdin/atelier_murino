@@ -1,0 +1,15 @@
+# Секреты и локальные данные
+admin/inc/config.php
+admin/inc/backups/
+admin/inc/.attempts.json
+leads/*.log
+
+# Загруженные фото клиента не тянем в шаблон
+uploads/*
+!uploads/.htaccess
+!uploads/.gitkeep
+
+# Служебное
+.DS_Store
+Thumbs.db
+*.tmp

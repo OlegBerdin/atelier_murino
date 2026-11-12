@@ -1,0 +1,73 @@
+{
+  "updated": "2026-11-11",
+  "site": {
+    "phone": "+7 (900) 123-45-67",
+    "phoneHref": "+79001234567",
+    "email": "zakaz@stezhok-murino.ru",
+    "address": "г. Мурино, ул. Привокзальная, 4, 2 этаж",
+    "hours": "Ежедневно с 10:00 до 20:00",
+    "whatsapp": "79001234567"
+  },
+  "items": [
+    {
+      "id": "podgonka",
+      "name": "Подгонка по фигуре",
+      "price": "1 200",
+      "unit": "₽",
+      "desc": "Ушиваем и расставляем по фигуре: платья, брюки, рубашки и пиджаки.",
+      "image": "assets/img/placeholder-1.svg",
+      "badge": "Хит",
+      "visible": true
+    },
+    {
+      "id": "zamena-molnii",
+      "name": "Замена молнии",
+      "price": "700",
+      "unit": "₽",
+      "desc": "Молнии в куртках, джинсах, сумках и пуховиках. Подбираем в цвет.",
+      "image": "assets/img/placeholder-2.svg",
+      "badge": "",
+      "visible": true
+    },
+    {
+      "id": "remont-dzhinsov",
+      "name": "Ремонт джинсов",
+      "price": "500",
+      "unit": "₽",
+      "desc": "Штопка, подгиб, замена шлёвок и восстановление швов.",
+      "image": "assets/img/placeholder-3.svg",
+      "badge": "",
+      "visible": true
+    },
+    {
+      "id": "poshiv-platya",
+      "name": "Пошив платья",
+      "price": "6 500",
+      "unit": "₽",
+      "desc": "По вашим меркам и эскизу. Можно принести свою ткань.",
+      "image": "assets/img/placeholder-4.svg",
+      "badge": "",
+      "visible": true
+    },
+    {
+      "id": "ushit-kurtku",
+      "name": "Ушить куртку",
+      "price": "1 500",
+      "unit": "₽",
+      "desc": "Уменьшаем объём, укорачиваем рукава, меняем подкладку.",
+      "image": "assets/img/placeholder-5.svg",
+      "badge": "",
+      "visible": true
+    },
+    {
+      "id": "poshiv-shtor",
+      "name": "Пошив штор",
+      "price": "1 900",
+      "unit": "₽/м",
+      "desc": "Пошив по размерам с подгонкой рисунка. Замер и установка.",
+      "image": "assets/img/placeholder-6.svg",
+      "badge": "Новинка",
+      "visible": true
+    }
+  ]
+}
